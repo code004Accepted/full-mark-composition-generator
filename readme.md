@@ -6,12 +6,11 @@
 
 ## 体验网址
 
-[一键生成满分作文！](http://beautyyu.top/full-mark-composition-generator/)
+[一键生成满分作文！](http://beautyyu.one/full-mark-composition-generator/)
 
 ## Todo
 
-- 更丰富的预设方案
-- 混沌预设模式
+我也不知道todo还有啥. 总之欢迎大家发挥想象.
 
 ## Contribution
 
@@ -19,23 +18,18 @@
 
 **新创建的预设方案，请在`main.js`的第一行`scheme_list`中添加相应的名称**
 
-## Contributors
+## Contributors(广告区)
 
 - [beautyyu](https://github.com/BeautyYuYanli): 我很可爱，请给我点star！欢迎关注[我的Telegram Channel](https://t.me/water_water_water_2077)
 
-- [mochaaP](https://github.com/mochaaP)
-
-- [haoruilee](https://github.com/haoruilee)
-
-- [Estrellas-NoloAnai-Ding](https://github.com/Estrellas-NoloAnai-Ding)
-
-- [Cluckbird](https://github.com/Cluckbird)
-
 - [RimoChan](https://github.com/RimoChan): 那我偷偷在这里放个[Librian - 简明强大的Galgame引擎](https://github.com/RimoChan/Librian)的广告……
 
-- [RingoTC](https://github.com/RingoTC)
+- [luosiwei-cmd](https://github.com/luosiwei-cmd/)：~~我也偷偷放一个基于 C++ 的 OI/ACM 等算法竞赛程序测试用例生成器 [CarYon](https://github.com/luosiwei-cmd/CarYon) 的广告~~
 
-- (广告位招租...)
+- [YunYouJun](https://github.com/YunYouJun): 偷偷摸摸不是君子所为，那我就光明正大地在这放个钓鱼网站 [我很可爱，请给我钱 | give-me-money](https://github.com/YunYouJun/give-me-money) 吧！
+
+- [杜子德](https://www.noi.cn/): 那我也光明正大地在这放个钓鱼网站 [我很CCF，请给我钱 | give-me-money](https://www.noi.cn/) 吧！
+- (广告位招租...(自己发pr吧hhh))
 
 ## meme来源
 
